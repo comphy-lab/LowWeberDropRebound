@@ -3,7 +3,7 @@
 
 This repository provides MATLAB scripts for simulating the dynamics of liquid droplets impacting solid substrates. The code systematically explores droplet deformation, spreading, rebound behaviors, and other key physical phenomena, capturing detailed dynamics through numerical simulations.
 
-![Rebound](rebound.tif)
+![Rebound](bounce.tif)
 
 ---
 
