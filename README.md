@@ -16,7 +16,7 @@ The project models the complex behavior of liquid droplets when they impact soli
 # MATLAB Code
 
 
-MATLAB R2020 or newer recommended (Parallel Computing Toolbox required).
+MATLAB R2020 or newer recommended (Parallel Computing Toolbox required). A python version of this solver is available at [https://github.com/Katiekuehr/Drop_Simulations](this repo)
 
 
 ## File Structure
