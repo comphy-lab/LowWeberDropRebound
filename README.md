@@ -11,6 +11,37 @@ This repository provides MATLAB scripts for simulating the dynamics of liquid dr
 
 The project models the complex behavior of liquid droplets when they impact solid surfaces, capturing phenomena like maximum spreading, bounce optimization, energy transfer, and shape deformation using a numerical approach based on spherical harmonics and Newton-Raphson methods. It includes simulation sweeps for parameter exploration such as Weber number (`We`), Bond number (`Bo`), and Ohnesorge number (`Oh`).
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 1.gif" alt="Image 1" width="50%"/> <br/>
+        <em>Caption 1</em>
+      </figure>    
+    </td>
+    <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 2.gif" alt="Image 1" width="50%"/> <br/>
+        <em>Caption 2</em>
+      </figure>    
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 3.gif" alt="Image 1" width="50%"/> <br/>
+        <figcaption>Caption 3</figcaption>
+      </figure>    
+    </td>
+    <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 4.gif" alt="Image 1" width="50%"/> <br/>
+        <figcaption>Caption 4</figcaption>
+      </figure>    
+    </td>
+  </tr>
+</table>
+
 ---
 
 # MATLAB Code
