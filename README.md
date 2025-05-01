@@ -5,6 +5,17 @@ This repository provides MATLAB scripts for simulating the dynamics of liquid dr
 
 ![Rebound](bounce.png)
 
+<div style="text-align:center">
+  <img src="Supplemental movies/Movie 1.gif" alt="Image 1" /><br/>
+  <em>A typical example of drop generation. A liquid jet is ejected from a circular orifice when a 
+piezoelectric diaphragm is flexed. As the diaphragm relaxes, the stream is retracted while capillary
+forces pinch off a drop. The upward motion of the stream during pinch-off directs the drop 
+upward, allowing oscillations of the drop’s interface to decay before it descends. The video is 
+played at 3/1600x real speed</em>
+</div>
+
+
+
 ---
 
 ## Overview
@@ -15,22 +26,20 @@ The project models the complex behavior of liquid droplets when they impact soli
   <tr>
     <td align="center">
       <figure>
-        <img src="Supplemental movies/Movie 1.gif" alt="Image 1" width="50%"/> <br/>
-        <em>A typical example of drop generation. A liquid jet is ejected from a circular orifice when a 
-piezoelectric diaphragm is flexed. As the diaphragm relaxes, the stream is retracted while capillary
-forces pinch off a drop. The upward motion of the stream during pinch-off directs the drop 
-upward, allowing oscillations of the drop’s interface to decay before it descends. The video is 
-played at 3/1600x real speed </em>
-      </figure>    
-    </td>
-    <td align="center">
-      <figure>
         <img src="Supplemental movies/Movie 2.gif" alt="Image 1" width="50%"/> <br/>
         <em>The upper We limits of full drop rebound on a viscous film. For a low Oh drop (Oh = 0.02, We = 
 5.4, Bo = 0.22), a droplet is ejected from the drop during rebound for sufficiently high We. At 
 higher We, and irrespective of Oh, the air layer between the rebounding drop and viscous film 
 breaks down and a small sessile drop is deposited (Oh = 0.02, We = 9.1, Bo = 0.22). The video is 
 played at 1/300x real speed. </em>
+      </figure>    
+    </td>
+     <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 6.gif" alt="Image 1" width="50%"/> <br/>
+        <em> Drops of increasing viscosity rebounding from a rigid, oil-coated glass slide. From left to right, the 
+dimensionless parameters are Oh = 0.03, Bo = 0.02, We = 0.25; Oh = 0.29, Bo = 0.02, We = 0.3; 
+and Oh = 0.71, Bo = 0.02, We = 0.27. The video is played at 3/1600x real speed. </em>
       </figure>    
     </td>
   </tr>
@@ -47,6 +56,27 @@ blue) and direct numerical simulation (dashed, blue) for We = 0.253, Bo = 0.02, 
         <img src="Supplemental movies/Movie 4.gif" alt="Image 1" width="50%"/> <br/>
         <figcaption>Comparison between experiment and the drop shape predicted by our reduced-order model (solid, 
 blue) and direct numerical simulation (dashed, blue) for We = 0.023, Bo = 0.02, and Oh = 0.03.</figcaption>
+      </figure>    
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 5.gif" alt="Image 1" width="50%"/> <br/>
+        <em>Drops of similar size Bo = 0.02 and liquid properties Oh = 0.03 rebounding from a rigid, oil-
+coated glass slide for We = 0.006, 0.023, 0.253, and 2.269, from left to right. The video is played 
+at 3/1600x real speed. </em>
+      </figure>    
+    </td>
+    <td align="center">
+      <figure>
+        <img src="Supplemental movies/Movie 7.gif" alt="Image 1" width="50%"/> <br/>
+        <figcaption>Comparison of a small drop Bo = 0.006 (We = 0.13, Oh = 0.04) and large drop Bo = 0.075 (We 
+= 0.17, Oh = 0.02) of the same fluid rebounding at similar We. The video is played at 1/300x real
+speed.</figcaption>
       </figure>    
     </td>
   </tr>
