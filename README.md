@@ -158,7 +158,15 @@ This script computes metrics such as maximum droplet width, restitution coeffici
 If you use this software or refer to the methodologies in your academic or professional work, please cite our associated paper as follows:
 
 ```bibtex
-to be completed
+@misc{gabbard2025dropreboundlowweber,
+      title={Drop rebound at low Weber number}, 
+      author={Chase T. Gabbard and Elvis A. Aguero and Radu Cimpeanu and Katharina Kuehr and Eli Silver and Jack-William Barotta and Carlos A. Galeano-Rios and Daniel M. Harris},
+      year={2025},
+      eprint={2505.00902},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn},
+      url={https://arxiv.org/abs/2505.00902}, 
+}
 ```
 
 ---
